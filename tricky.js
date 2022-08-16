@@ -20,3 +20,13 @@ function abc() {
 }
 
 abc()
+
+
+/*** What will be the output ****/
+
+var a = "10"
+var b = 10
+
+console.log(a == b)
+console.log(a === b)
+
